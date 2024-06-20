@@ -10,7 +10,7 @@ export default function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Landing />} />
-          <Route path="/index" element={<Index />} />
+          <Route path="/langa" element={<Index />} />
         </Routes>
       </BrowserRouter>
     </Suspense>

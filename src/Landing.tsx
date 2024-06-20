@@ -36,7 +36,7 @@ export default function Landing() {
                 </button>
                 <button className='btn btn-error w-fit mx-auto rounded-md text-gray-100 py-2 px-2' type='button' onClick={
                     () => {
-                        window.open('/index');
+                        window.open('/langa');
                     }
                 }>
                     Click to check out the Index page
