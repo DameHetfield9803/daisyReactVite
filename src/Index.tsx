@@ -1,3 +1,4 @@
+import './App.css'
 export default function Index() {
     return (
         <main className="bg-black p-6 space-y-4 flex flex-col text-center mx-auto container min-w-full min-h-screen" data-theme="forest">
