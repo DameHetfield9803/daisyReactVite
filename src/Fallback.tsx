@@ -1,3 +1,4 @@
+import './App.css'
 export default function Fallback() {
     return (
         <main className="text-center font-thin mx-auto container flex flex-col p-6 text-wrap bg-black">
